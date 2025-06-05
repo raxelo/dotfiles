@@ -1,0 +1,6 @@
+font-family = "FiraCode Nerd Font"
+font-size = 20
+window-padding-color = extend
+theme = dark:tokyonight,light:tokyonight-day
+
+
